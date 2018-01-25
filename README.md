@@ -1,3 +1,4 @@
 # crypto-stuff
 
-Python codee for documenting the price of Ripple
+Python code for documenting the price of Ripple in Wavefront.
+
