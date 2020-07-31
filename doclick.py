@@ -15,4 +15,4 @@ def doclick(num):
   App = Tk() #required.
   App.withdraw() #for hide window.
   messagebox.showinfo("Notification", "Done!") #msgbox
-  App.mainloop() #required.    
+  # App.mainloop() #required.    
