@@ -17,8 +17,6 @@ def main():
   doclick(num)
   print("Done.")
 
- 
-  
 # Using the special variable  
 # __name__ 
 if __name__=="__main__": 
